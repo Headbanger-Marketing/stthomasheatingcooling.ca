@@ -1,28 +1,28 @@
 # St Thomas Heating & Cooling
 
-> St Thomas Heating & Cooling is a local HVAC company serving St. Thomas, Middlesex County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+> Heating and cooling requests for St. Thomas. Thermostat service concerns diagnosing control faults or replacing a thermostat with a model compatible with the connected HVAC equipment.
 
-Phone: (548) 457-2400  |  Email: contact@stthomasheatingcooling.ca  |  Website: https://stthomasheatingcooling.ca
+Email: contact@stthomasheatingcooling.ca  |  Website: https://stthomasheatingcooling.ca
 
-Service areas: St. Thomas, London, Strathroy, Dorchester, Komoka, Aylmer, Lucan
+Request locations: St. Thomas, London, Strathroy, Dorchester, Komoka, Aylmer, Lucan. Coverage and availability require provider confirmation.
 
 ## Key pages
 
-- [Home](https://stthomasheatingcooling.ca/): St Thomas Heating & Cooling homepage with service overview and FAQ
-- [About](https://stthomasheatingcooling.ca/about/): About the company and service area
-- [Contact](https://stthomasheatingcooling.ca/contact/): Request a free quote or service call
+- [Home](https://stthomasheatingcooling.ca/): Service request overview and equipment guidance
+- [About](https://stthomasheatingcooling.ca/about/): Website and inquiry process
+- [Contact](https://stthomasheatingcooling.ca/contact/): Submit a service inquiry
 
 ## Services
 
-- [Furnace Installation & Repair](https://stthomasheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in St. Thomas, Ontario
-- [AC Installation & Repair](https://stthomasheatingcooling.ca/services/ac-repair/): AC Installation & Repair in St. Thomas, Ontario
-- [Heat Pumps](https://stthomasheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in St. Thomas, Ontario
-- [Duct Cleaning](https://stthomasheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in St. Thomas, Ontario
-- [Thermostats](https://stthomasheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in St. Thomas, Ontario
-- [Ductless AC Installation](https://stthomasheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in St. Thomas, Ontario
-- [Fireplace Installation](https://stthomasheatingcooling.ca/services/fireplace-installation/): Fireplace Installation in St. Thomas, Ontario
-- [Boiler Service](https://stthomasheatingcooling.ca/services/boiler-service/): Boiler Service in St. Thomas, Ontario
+- [Furnace Installation & Repair](https://stthomasheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair guidance and requests in St. Thomas, Ontario
+- [AC Installation & Repair](https://stthomasheatingcooling.ca/services/ac-repair/): AC Installation & Repair guidance and requests in St. Thomas, Ontario
+- [Heat Pumps](https://stthomasheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps guidance and requests in St. Thomas, Ontario
+- [Duct Cleaning](https://stthomasheatingcooling.ca/services/duct-cleaning/): Duct Cleaning guidance and requests in St. Thomas, Ontario
+- [Thermostats](https://stthomasheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats guidance and requests in St. Thomas, Ontario
+- [Ductless AC Installation](https://stthomasheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation guidance and requests in St. Thomas, Ontario
+- [Fireplace Installation](https://stthomasheatingcooling.ca/services/fireplace-installation/): Fireplace Installation guidance and requests in St. Thomas, Ontario
+- [Boiler Service](https://stthomasheatingcooling.ca/services/boiler-service/): Boiler Service guidance and requests in St. Thomas, Ontario
 
 ## FAQ
 
-Common questions about HVAC service in St. Thomas are answered on the homepage.
+Questions about heating and cooling requests in St. Thomas are addressed on the homepage.
